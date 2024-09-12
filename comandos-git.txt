@@ -43,3 +43,7 @@ Ao fazer alterações que funcionaram ou antes de ir embora, dar commit, para qu
 
  git push 
 
+
+ -- Para fazer alterções, sempre precisa do git add . , do git commit e do git push, para levar Ao
+ github
+
