@@ -29,3 +29,17 @@ git add .
 -- Troca o branch de master para main
 
 git branch -m master main
+
+-- o git commit -m cria o controle de versões. o -m é uma mensagem que gravamos para identificar o por que 
+da alteração
+
+git commit -m "Aqui é mensagem para identificar o pq da alteração"
+
+Ao fazer alterações que funcionaram ou antes de ir embora, dar commit, para que seja criada essa
+ versão. Nesse momento está salvo só no meu computador.
+ Após isso, precisa enviar o arquivo para o github e depois dar o git push
+
+ -- Envia as atualizações para o github
+
+ git push 
+
